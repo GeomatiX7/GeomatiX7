@@ -1,4 +1,4 @@
-<img alt="GeomatiX: «Lo que no se ve, se mide.» sobre una malla de terreno triangulada (TIN) y una nube de puntos en azul, con fondo oscuro." src="assets/cabecera-v2.png" width="100%">
+<img alt="Turning geospatial data into decisions: GIS &amp; Geospatial Analysis, Software Development, Process Automation y Data Storytelling. Estudiante de Ingeniería Geomática en la Universidad del Valle, abierto a prácticas y proyectos. Fondo oscuro con una malla de terreno triangulada (TIN) y una nube de puntos en azul." src="assets/banner-v3a.png" width="100%">
 
 ```text
 HOJA 1 DE 3 · SIN ESCALA · MAGNA-SIRGAS · GEOGRÁFICAS · EPSG:4686
