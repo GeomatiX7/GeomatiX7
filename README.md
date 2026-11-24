@@ -23,7 +23,7 @@ ELABORÓ: JHON QUEVEDO · INGENIERÍA GEOMÁTICA, UNIVERSIDAD DEL VALLE · COLOM
 | ✕ | **MCP para AutoCAD 2027** | 01 · 03 | Servidor MCP local que conecta un asistente de IA con AutoCAD 2027: 52 herramientas para consultar, dibujar, editar, rotular y armar láminas. | Privado por ahora |
 | ✕ | **BdH** — La Banda del Halcón | 03 | Plugin de Claude Code: 7 agentes que especifican, escriben los tests antes del código, implementan y revisan con ojos que no escribieron. 13 pruebas documentadas de costo y acierto. | Privado por ahora |
 | ✕ | **PgStyl3** | 02 · 03 | Plugin de diseño web: conversación antes de diseñar, `DESIGN.md` compatible con Stitch y revisión medida en Edge a 3 anchos. | Privado por ahora |
-| ✕ | **Error de digitalización** (Trujillo, Valle) | 01 | Trabajo en equipo: 278 construcciones digitalizadas sobre ortofoto frente a 265 predios. ArcGIS Pro, MAGNA-SIRGAS, 1:4.000. | Portafolio (pronto) |
+| ✕ | **Error de digitalización** (Trujillo, Valle) | 01 | Elaboración propia: 278 construcciones digitalizadas sobre ortofoto frente a 265 predios. ArcGIS Pro, MAGNA-SIRGAS, 1:4.000. | Portafolio (pronto) |
 
 ## Escala gráfica
 
